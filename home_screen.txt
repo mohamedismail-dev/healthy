@@ -1,3 +1,4 @@
 app bar
 botton navigation bar
 categores
+offers list
