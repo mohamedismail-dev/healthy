@@ -1,3 +1,5 @@
 profile pic
 log out
 delete account
+toggle theme
+toggle lang
