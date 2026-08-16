@@ -1,3 +1,4 @@
 fave list view
 search
 delete
+archive
